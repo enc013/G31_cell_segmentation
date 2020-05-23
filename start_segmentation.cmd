@@ -1,0 +1,1 @@
+py cell_segmentation.py "20x gland zstack after.nd2" "20x gland zstack after.xlsx" --saveImages True

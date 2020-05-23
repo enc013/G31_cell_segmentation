@@ -1,0 +1,1 @@
+pip3 install opencv-python opencv-contrib-python pandas xlrd numpy nd2reader datetime tqdm
